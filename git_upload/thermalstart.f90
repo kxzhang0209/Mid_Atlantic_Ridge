@@ -16,6 +16,11 @@
 ! Y.Y. Ruan 02/07/2018
 !   Add depleted peritotite solidus (Ruan et al., 2018)
 !
+! K.X. Zhang 05/11/2022
+!   modified several details
+!
+! K.X. Zhang 10/02/2022
+!   Add peritotite by Katz and Spiegelman (2003)
 !=======================================================
 
   module thermodel
