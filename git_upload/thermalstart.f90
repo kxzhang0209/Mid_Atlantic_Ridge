@@ -231,9 +231,9 @@
       ! JGR (2016)
       real, parameter :: Gur   = 72.45E+09      ! unrelaxed modulus (Pa)
       real, parameter :: dGudT = -10.94E+06     ! temp derivative Pa/degK
-      !real, parameter :: dGudP = 1.987          ! pressure derivative !!!orin
+      real, parameter :: dGudP = 1.987          ! pressure derivative !!!orin
       !real, parameter :: dGudP = 1.5           ! pressure derivative Pa/Pa
-      real, parameter :: dGudP = 1.75     ! pressure derivative Pa/Pa!!!Ruan(?)
+      !real, parameter :: dGudP = 1.75     ! pressure derivative Pa/Pa!!!Ruan(?)
 
       real :: temperature, pressure
       real :: shear_modulus     ! Pa
